@@ -1,0 +1,23 @@
+body{
+    margin: 0 30px;
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #006699;
+    font-family: "Times New Roman", Times, serif;
+}
+
+p{
+    border: #006699 1px solid;
+    border-radius: 50%;
+    padding: 10px;
+    display: inline;
+}
+
+img{
+    border-radius: 50%;
+    width: 200px;
+}
